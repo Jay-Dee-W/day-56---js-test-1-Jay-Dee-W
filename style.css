@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+}
+
+.menu {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    padding: 2%;
+    position: sticky;
+    top:0;
+    background-color: #01162D ;
+}
+
+.content {
+  padding-top: 100px;
+    margin: 5% 10%;
+}
+
+h1 {
+    background-color: #2564B3;
+    width:fit-content;
+    color: white;
+    padding:1%;
+}
+.rule {
+    border-bottom: 2px solid #2564B3;
+}
